@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2tXjXdjGi9bvlXDQQfE8E5qejUsAYkHYYUwvu+OqkX4=",
+  "Source": "BNI-POC.API",
+  "BasePath": "_content/BNI-POC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
